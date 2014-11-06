@@ -9,7 +9,8 @@ li2img
 li2img will convert a default image listing into a image gallery of these images. It comes in handy
 when you don't have any permanent implementations for viewing images, such as parsing them with PHP 
 and performing the same task, but this will also work on any page where you may or may not be the
-owner of the website. 
+owner of the website. You can shorten it yourself and bookmark it for each of use, but I'd rather
+show exactly what is happening with it, rather than releasing obscured code.
 
 The MIT License (MIT)
 ==========
