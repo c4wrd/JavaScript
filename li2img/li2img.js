@@ -26,8 +26,7 @@ var init = function(){
 	body.innerHTML = "";
 
 	listItems.forEach(function(item){
-		var imgUri = grabImageFromListItem(item);
-		var block = createImageBlock(imgUri);
+		var block = createImageBlock(grabImageFromListItem(item));
 		body.appendChild(block);
 	});
 }
